@@ -1,9 +1,20 @@
 "use client"
-import React from 'react'
+import React, { useEffect } from 'react'
 import { useParams } from 'next/navigation'
+import { useRouter } from 'next/navigation'
 
 const page = () => {
     const params = useParams()
+    const router = useRouter()
+
+    useEffect(() => {
+        setTimeout(() => {
+            router.push('/dashboard')
+        }, 2);
+    
+    }, [])
+    
+
   return (
     <div>
       This is useParams {params.slug}
