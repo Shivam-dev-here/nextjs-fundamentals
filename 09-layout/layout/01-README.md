@@ -12,8 +12,8 @@ description
 ---
 ## Added a Admin Login
 
-- URL: `localhost:3000/admin/login`
-- `Root/app/admin/layout`
+- URL: `localhost:3000/admin/adminlogin`
+- `Root/app/admin/adminlayout`
 
 ---
 ## Grouping Admin
