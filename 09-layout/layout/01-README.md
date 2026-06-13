@@ -10,3 +10,9 @@ description
 - Solution: create a another layout page. (given below)
 
 ---
+## Added a Admin Login
+
+- URL: `localhost:3000/admin/login`
+- `Root/app/admin/layout`
+
+---
