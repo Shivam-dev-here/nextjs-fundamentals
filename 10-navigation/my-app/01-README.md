@@ -32,4 +32,11 @@ description
 - Output: redirects to URL: `localhost:3000/Dashboard`
 
 ---
+#### useSearchParams
 
+- Use: "gives params inside URL"
+- Folder: "root/app/page.js"
+- URL: `http://localhost:3000/?blog=shivam&utm_source=instagram`
+- Output: `Home | Page | blog is shivam and instagram`
+
+---
