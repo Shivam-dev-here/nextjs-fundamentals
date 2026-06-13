@@ -16,3 +16,9 @@ description
 - `Root/app/admin/layout`
 
 ---
+## Grouping Admin
+
+- Folder: `Admin/`  ->   `(Admin)/`
+- URL: shorten, from `localhost:3000/admin/adminlogin` to `localhost:3000/adminlogin`
+
+---
