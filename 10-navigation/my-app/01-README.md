@@ -24,3 +24,12 @@ description
 - Output: `This is useParams cpps`
 
 ---
+#### useRouters
+
+- Use: "redirects to another page as will"
+- Folder: "root/app/blogpost/[slug]/page.js"
+- URL: `http://localhost:3000/blogpost/cpp`
+- Output: redirects to URL: `localhost:3000/Dashboard`
+
+---
+
