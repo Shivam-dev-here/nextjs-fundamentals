@@ -10,3 +10,7 @@ description
 ---
 #### usePathname
 
+- Use: "tells us at what page we are"
+- Folders: "root/components/Navbar.js"
+
+---
