@@ -32,3 +32,18 @@ description
 		- Output: `SECRET: ******`
 		
 ---
+# Operation for Client Component
+
+- When `root/app/page.js` is Client Component
+- Path: `root/.env`
+	- `NEXT_PUBLIC_ID=mypersonalishere.mypersonal@gmail.com`
+	- `SECRET=******
+
+#### Operations
+
+- Path: "root/app/page.js"
+	1. `<div> {process.env.NEXT_PUBLIC_ID}</div>`
+		- Output: `mypersonalishere.mypersonal@gmail.com`
+
+
+---
