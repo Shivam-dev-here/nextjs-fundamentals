@@ -47,3 +47,9 @@ description
 
 
 ---
+# `.evn & .env.local`
+
+#### Priority: 
+- `.env.local > .env`: `.env.local loads earlier then .env`
+
+---
